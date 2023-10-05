@@ -1,0 +1,51 @@
+.par-cont{
+    border: 5px solid black;
+    background-color: black;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    /* border-radius: 100px; */
+     justify-content:center;
+    align-items: center;
+
+}
+
+.input{
+    border-radius: 100px;
+}
+/* .children{
+    height: 100px;
+    width: 100px;
+} */
+
+ #child1{
+    
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: stretch;
+    
+}
+/* #child2{ */ 
+    /* background-color: pink; */
+/* }
+#child3{
+    background-color: rgb(166, 125, 231);
+} */
+/* #child4{
+    background-color: rgb(212, 219, 219);
+} */
+/* #child5{
+    background-color: #D988B9;
+} */
+/* #child6{
+    background-color: #D7E5CA;
+} */
+/* #child7{
+    background-color: #7C81AD;
+} */
+/* #child8{
+    background-color: #E9B824;
+} */
+
